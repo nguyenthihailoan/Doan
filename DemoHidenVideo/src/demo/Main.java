@@ -17,8 +17,8 @@ import org.opencv.videoio.Videoio;
  */
 public class Main {
 
-    public static String PATHVIDEO = "C:\\Users\\nguye\\OneDrive\\Desktop\\DoAn_GiauTim\\videoplayback.mp4";
-    public static String PATHOUT = "C:\\Users\\nguye\\OneDrive\\Desktop\\DoAn_GiauTim\\Output";
+    public static String PATHVIDEO = "E:\\Đồ Án _\\videoplayback.mp4";
+    public static String PATHOUT = "E:\\Đồ Án _\\Output";
 
     public static void main(String[] args) {
         System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
